@@ -10,7 +10,7 @@ SOA is a design pattern which can build distributed systems and provide services
 ### Pros
 
  - It can save a lot of time and also cost.
- - the large scale of services.
+ - The large scale of services.
  - Small range of technologies are used.
 ### Cons
  - It is not good for DevOps since deployment can be complicated
