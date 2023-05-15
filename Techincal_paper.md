@@ -37,7 +37,7 @@ The service consumer requests the service provider to run a specific service. It
 ### How does SOA work?
 When the user or consumer requests the service provider it can take the request from the consumer and process the data and performs some tasks and send the response to the user.
 Examples are UBER, OLA, etc.
-### Resources
+### References
 
 - https://aws.amazon.com/what-is/service-oriented-architecture
 - https://www.geeksforgeeks.org/service-oriented-architecture/
